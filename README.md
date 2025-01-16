@@ -1,16 +1,30 @@
 # Prueba MiCasino
 
-El repo contiene un formulario modular. 
+# Prueba MiCasino
 
-- npm i / npm run dev
+Este repositorio contiene un formulario modular para la aplicación MiCasino.
 
-- Se debe descomentar las lineas de App.vue para habilitar el campo Options.
-- Se debe crear el componente SelectUnselectField.vue con las siguientes funcionalidades:
-  - Al clicar en una opción, cambie de Available a Disabled, y viceversa.
-  - Una vez cambia el estado de una opción, se debe actualizar el componente superior.
-  
-- Si el resultado es correcto, una vez se clica en guardar, aparecerá el resultado en el textarea.
-- Se debe aplicar estilos css según la imagen.
+## Requisitos
 
-<img src="./src/assets/result.png" alt="screenshot" width="500"/>
+- Node.js
+- npm
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   cd <NOMBRE_DEL_REPOSITORIO>
+   ```
+
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+
+## Ejecución
+
+Para iniciar la aplicación, ejecuta:
+
+<img src="./src/assets/imagen_prueba.png" alt="screenshot" width="500"/>
 
