@@ -23,6 +23,11 @@ Este repositorio contiene un formulario modular para la aplicación MiCasino.
 ## Ejecución
 
 Para iniciar la aplicación, ejecuta:
+```bash
+   npm run dev
+   ```
+
+Imagen de la prueba : 
 
 <img src="./src/assets/imagen_prueba.png" alt="screenshot" width="500"/>
 
