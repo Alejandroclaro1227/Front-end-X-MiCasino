@@ -1,7 +1,5 @@
 # Prueba MiCasino
 
-# Prueba MiCasino
-
 Este repositorio contiene un formulario modular para la aplicación MiCasino.
 
 ## Requisitos
