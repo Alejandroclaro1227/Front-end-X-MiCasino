@@ -27,7 +27,7 @@ Para iniciar la aplicación, ejecuta:
    npm run dev
    ```
 
-Imagen de la prueba : 
+Imagen de la prueba Resuelta  : 
 
 <img src="./src/assets/imagen_prueba.png" alt="screenshot" width="500"/>
 
